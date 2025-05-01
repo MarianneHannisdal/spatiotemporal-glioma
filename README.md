@@ -38,6 +38,7 @@ If you use this code in your research, please cite:
 Hannisdal MH, Lundervold A, Goplen D, et al. Spatial-temporal recurrence patterns of grade 4 glioma using
 deep learning integrated mpMRI and molecular pathology. 2025.
 
+This citation requirement is an important condition of using this software for research purposes, even though the code is made available under the BSD 3-Clause License.
 ## License
 
 The BSD 3-Clause License
