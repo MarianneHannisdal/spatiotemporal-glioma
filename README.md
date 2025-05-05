@@ -30,7 +30,6 @@ Our analysis demonstrated:
 - ANTs
 - nnU-Net
 - SynthSeg+
-- Additional dependencies listed in requirements.txt
 
 ## Citation
 
